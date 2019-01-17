@@ -12,8 +12,6 @@ from gevent.pool import Pool
 import time
 
 
-
-
 class QiuBai(object):
     def __init__(self):
         self.url = 'https://www.qiushibaike.com/hot/page/{}/'
